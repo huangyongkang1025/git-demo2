@@ -15,3 +15,6 @@
 	dasdasdasd444
 	dasdasdasd444
 	dasdasdasd444 master test
+	dasdasdasd444 hot test
+
+>>>>>>> hot-fix
