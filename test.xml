@@ -5,5 +5,6 @@
     <select id="d">
         select *  from  test
         select *  from  test2
+        select *  from  test3
     </select>
 </mapper>
