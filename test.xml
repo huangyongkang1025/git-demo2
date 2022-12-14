@@ -3,6 +3,6 @@
 <mapper namespace="ddd">
 
     <select id="d">
-        select *  from  test
+        select *  from  test5555
     </select>
 </mapper>
