@@ -6,5 +6,6 @@
         select *  from  test5555
         select *  from  test
         select *  from  test2
+        select *  from  test4
     </select>
 </mapper>
