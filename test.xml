@@ -7,5 +7,6 @@
         select *  from  test
         select *  from  test2
         select *  from  test4
+        select *  from  test3
     </select>
 </mapper>
